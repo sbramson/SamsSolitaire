@@ -69,3 +69,28 @@ decent but how could it look even emptier?
 :  :  there that's probably pretty good
  ..    annoying that the colons and periods aren't in the same
      horizontal position in the column
+
+
+ok! so possible game board:
+
++--++   ..     ..   ..   ..   ..   ..   ..   ..   .. 
+|  ||  :  :   :  : :  : :  : :  : :  : :  : :  : :  :
+|  ||  :  :   :  : :  : :  : :  : :  : :  : :  : :  :
++--++   ..     ..   ..   ..   ..   ..   ..   ..   ..
+
+ ..
+:  :
+:  :
+ ..
+ ..
+:  :
+:  :
+ ..
+ ..
+:  :
+:  :
+ ..
+ ..
+:  :
+:  :
+ ..
