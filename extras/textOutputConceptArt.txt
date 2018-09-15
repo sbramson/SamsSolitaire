@@ -44,3 +44,27 @@
 | Q|
 |He|
 +--+
+
+
+oh and on "the game board", there should be a way to show a place
+where a pile of cards could be, but currently isn't
+
+ --
+|  |
+|  |
+ --
+
+decent but how could it look even emptier?
+
+ ++
+ ++
+
++  +
+
+
++  +
+
+ ..
+:  :
+:  :  there that's probably pretty good
+ ..
