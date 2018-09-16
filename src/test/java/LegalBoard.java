@@ -14,4 +14,7 @@
  * sake of that global deck information
  *
  * But another thought is that some of this legality logic might be needed in the game itself!
+ *
+ * there is a potential partitioning into legal boards and legal *starting* boards
+ * both of which have to tackle the many cases covering the random positions of cards
  */
