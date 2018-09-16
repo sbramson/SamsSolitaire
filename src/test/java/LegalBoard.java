@@ -17,4 +17,7 @@
  *
  * there is a potential partitioning into legal boards and legal *starting* boards
  * both of which have to tackle the many cases covering the random positions of cards
+ *
+ * One way to start small and simple is to make sure there are exactly the 52 playing cards there should
+ * be. Which implies that those cards, "the deck", could live at the top level of the whole game's architecture.
  */
