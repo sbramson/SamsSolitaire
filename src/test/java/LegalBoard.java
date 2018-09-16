@@ -9,4 +9,9 @@
  * columns, or strict increasing order within a suit for foundation piles), they would not naturally pick
  * up the global information that THIS test would need, namely to identify that all 52 playing cards are
  * out there somewhere
+ *
+ * So maybe it wouldn't be a big deal to have all those checks live in one class, here, just for the
+ * sake of that global deck information
+ *
+ * But another thought is that some of this legality logic might be needed in the game itself!
  */
