@@ -1,6 +1,7 @@
 /*
- * LegalBoard.java
- * A JUnit test 
+ * CoreTest.java
+ * A JUnit test for the part of the game that handles rules and mechanics, maintaining and evolving
+ * the game state.
  *
  * so this could potentially call smaller tests that check the legality of smaller parts of the board
  * i.e. individual free cells, individual foundation piles, individual tableu columns
@@ -21,3 +22,19 @@
  * One way to start small and simple is to make sure there are exactly the 52 playing cards there should
  * be. Which implies that those cards, "the deck", could live at the top level of the whole game's architecture.
  */
+ 
+import static org.junit.Assert.*;
+import org.junit.*;
+
+import main.java.core.SolitaireCore;
+
+public class CoreTest {
+	
+	// Are the 52 normal playing cards in play?
+	@Test
+	public void testStandard52CardsExist() {
+		SolitaireCore core = new SolitaireCore();
+		
+		// so how should the test code structure the cards so as to check against the real code
+	}
+}
